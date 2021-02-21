@@ -1,15 +1,28 @@
+
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
+html {
+    scroll-behavior :smouth;
+}
 body {
 background-color: rgb(245, 247, 222);
 font-family: Verdana ;
 
 }
+
 h1 {
     color: brown;
+   font-size: 1.2 em;
     text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
 }
+
+
   h2 {
       color: rgb(19, 82, 32);
+      text-decoration: underline;
   }
   h1 {color: rgb(29, 78, 48);
-}
-h3{color: rgb(19, 16, 70);}
+  }
+  #pret
+     {text-decoration:line-through ;
+    }
