@@ -4,17 +4,21 @@ html {
     scroll-behavior :smouth;
 }
 body {
-background-color: rgb(245, 247, 222);
+background-color: rgb(230, 236, 159);
 font-family: Verdana ;
 
 }
 
 h1 {
+    text-decoration-style: solid;
     color: brown;
    font-size: 1.2 em;
     text-align: center;
     font-family: 'Noto Sans JP', sans-serif;
+
+
 }
+
 
 
   h2 {
@@ -25,4 +29,38 @@ h1 {
   }
   #pret
      {text-decoration:line-through ;
+    }
+    .pret{
+
+        font-size: 1,2em;
+        color: rgb(26, 62, 224);
+        font font-weight: bold;
+    }
+    
+    img {
+
+        display:block;
+    }
+    blockquote {
+
+        color: rgb(136, 15, 11);
+        font-size: 1,3em ;
+        font-style: italic;
+        text-decoration-style: solid;
+border-style: double;
+
+}
+
+    img {
+
+    display:block;
+margin: auto;
+
+   }
+    
+    
+    ol {
+list-style-type: upper-roman;
+list-style-type: '♥';
+list-style-image: url();
     }
