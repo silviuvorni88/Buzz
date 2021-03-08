@@ -1,0 +1,21 @@
+table {
+border-style: solid;
+border-color: red;
+border-spacing: 0;
+border-collapse: collapse;
+font-family: sans-serif;
+}
+td{
+    border-style: solid;
+border-color: royalblue;
+padding: 0.5em;
+}
+th{
+    border-style: solid;
+border-color: rgb(204, 204, 48);
+background-color: red;
+color: snow;
+text-align:left ;
+text-transform: uppercase;
+padding-right: 0.5em;
+}

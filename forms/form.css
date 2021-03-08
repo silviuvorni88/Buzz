@@ -1,0 +1,26 @@
+
+body{
+    height: 1vh;
+}
+input{
+    display: block;
+margin: 0.2em 0 0.5em 0 ;
+}
+button{
+    display: block;
+    background-color: springgreen;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 4%, rgba(0,212,255,1) 100%);
+border-style: none;
+padding: 0.5em;
+color: rgb(70, 16, 70);
+border-radius: 0.5em;
+width: 5em;
+}
+label{
+    font-family: sans-serif;
+display: block;
+}
+select{
+   display:block ;
+    margin-bottom: 0.5em;
+}
